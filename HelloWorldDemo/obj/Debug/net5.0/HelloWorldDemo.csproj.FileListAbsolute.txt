@@ -1,0 +1,16 @@
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.exe
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.deps.json
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.runtimeconfig.json
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.runtimeconfig.dev.json
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.dll
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\ref\HelloWorldDemo.dll
+D:\.net\HelloWorldDemo\HelloWorldDemo\bin\Debug\net5.0\HelloWorldDemo.pdb
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.csproj.AssemblyReference.cache
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.AssemblyInfoInputs.cache
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.AssemblyInfo.cs
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.csproj.CoreCompileInputs.cache
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.dll
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\ref\HelloWorldDemo.dll
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.pdb
+D:\.net\HelloWorldDemo\HelloWorldDemo\obj\Debug\net5.0\HelloWorldDemo.genruntimeconfig.cache
