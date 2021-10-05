@@ -7,7 +7,11 @@ namespace HelloWorldDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Read();
+        }
+
+        public static void Addition()
+        {
+            Console.WriteLine("Addition Operation")
         }
     }
 }
